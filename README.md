@@ -3,8 +3,7 @@ Tiny Video Networks
 
 ![TVN architecture](https://github.com/DELTA37/TVN/blob/main/static/tvn.png)
 
-You can install tvn package via pip soon...  
-pip install torch-tvn  
+pip install tvn==1.0 
 
 
 After installing or cloning  

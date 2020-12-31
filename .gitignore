@@ -1,5 +1,8 @@
 # Byte-compiled / optimized / DLL files
 data
+dist
+build
+*.egg-info
 .*
 logs
 __pycache__/

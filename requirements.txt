@@ -1,0 +1,7 @@
+torch
+torchvision
+scikit-video
+av
+numpy
+imageio
+munch
